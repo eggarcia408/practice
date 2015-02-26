@@ -1,1 +1,6 @@
 newfile2
+
+newfile#2
+
+
+newfile#3
