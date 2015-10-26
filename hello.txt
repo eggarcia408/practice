@@ -6,3 +6,7 @@ doing
 doing change
 
 doing a change pt2
+
+
+
+trying to see if last commit was deleted
