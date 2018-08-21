@@ -1,2 +1,3 @@
 ksklads.d
 Adding this line to practice pull requests. Adding this to see how github handles merge conflict via web interface
+haha
